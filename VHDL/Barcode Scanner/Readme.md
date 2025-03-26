@@ -51,6 +51,3 @@ make program
 - Industrial Logistics
 - Inventory Management
 - Embedded Scanning Systems
-
-## Contributing
-Contributions are welcome! Please submit pull requests or open issues on the project repository.
