@@ -51,12 +51,6 @@ This FPGA-based Morse Code Translator is a versatile system that converts text t
 - LED Signaling
 - Buzzer/Audio Tone
 
-## Testbench
-Testbenches are provided in the `testbench/` directory for:
-- Morse Encoder
-- Morse Decoder
-- Finite State Machine
-
 ## Customization
 - Modify Morse code lookup tables
 - Adjust timing parameters
