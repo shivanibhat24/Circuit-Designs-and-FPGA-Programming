@@ -162,10 +162,3 @@ Potential improvements include:
 - Enhanced power management features
 - Formal verification of IEEE 754 compliance
 
-## License and Attribution
-
-This implementation is based on research presented at the Austrochip Workshop on Microelectronics, focusing on efficient vector processing for embedded RISC-V systems.
-
-## Technical Support
-
-For questions regarding implementation details, synthesis results, or integration guidance, please refer to the inline documentation within the source code.
