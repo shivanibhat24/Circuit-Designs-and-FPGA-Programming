@@ -145,20 +145,10 @@ The design incorporates several optimizations:
 
 ## Synthesis and Verification
 
-The design is written in SystemVerilog and utilizes:
+The design is written in Verilog and utilizes:
 - Parameterized modules for design flexibility
 - Enumerated types for improved readability
 - Packages for shared definitions
 - Interfaces for clean module boundaries
 - Generate blocks for scalable instantiation
-
-## Future Enhancements
-
-Potential improvements include:
-- Support for 64-bit element operations
-- Masked vector operations
-- Segmented load/store instructions
-- Vector reduction operations
-- Enhanced power management features
-- Formal verification of IEEE 754 compliance
 
